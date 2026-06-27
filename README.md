@@ -56,19 +56,19 @@
 ### 🤖 AI & Developer Tooling
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+  <a href="https://www.anthropic.com" target="_blank"><img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Bedrock" />
+  <a href="https://aws.amazon.com/bedrock" target="_blank"><img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Bedrock" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <a href="https://ai.google.dev" target="_blank"><img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Claude_Skills-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Skills" />
+  <a href="https://www.anthropic.com/claude" target="_blank"><img src="https://img.shields.io/badge/Claude_Skills-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Skills" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/MCP-0e75b6?style=for-the-badge&logoColor=white" alt="MCP" />
+  <a href="https://modelcontextprotocol.io" target="_blank"><img src="https://img.shields.io/badge/MCP-0e75b6?style=for-the-badge&logoColor=white" alt="MCP" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Glean-FF6B35?style=for-the-badge&logoColor=white" alt="Glean" />
+  <a href="https://www.glean.com" target="_blank"><img src="https://img.shields.io/badge/Glean-FF6B35?style=for-the-badge&logoColor=white" alt="Glean" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Resolve.AI-4A90D9?style=for-the-badge&logoColor=white" alt="Resolve.AI" />
+  <a href="https://www.resolve.ai" target="_blank"><img src="https://img.shields.io/badge/Resolve.AI-4A90D9?style=for-the-badge&logoColor=white" alt="Resolve.AI" /></a>
 </p>
 
 ---
