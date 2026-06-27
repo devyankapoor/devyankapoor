@@ -27,10 +27,10 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/devyankapoor" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:kapoor.devyan@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
@@ -39,17 +39,17 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
-  <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <a href="https://www.snowflake.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="40" height="40"/></a>&nbsp;
+  <a href="https://azure.microsoft.com" target="_blank"><img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Azure" width="40" height="40"/></a>&nbsp;
+  <a href="https://cloud.google.com" target="_blank"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="GCP" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.docker.com" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"/></a>&nbsp;
+  <a href="https://kubernetes.io" target="_blank"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.snowflake.com" target="_blank"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" width="40" height="40"/></a>&nbsp;
+  <a href="https://git-scm.com" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/></a>&nbsp;
   <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
 
@@ -58,9 +58,9 @@
 ### 🤖 AI & Developer Tooling
 
 <p align="left">
-  <a href="https://aws.amazon.com/bedrock" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Bedrock" width="40" height="40"/></a>
-  <a href="https://www.anthropic.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="Anthropic Claude" width="40" height="40"/></a>
-  <a href="https://ai.google.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Gemini" width="40" height="40"/></a>
+  <a href="https://www.anthropic.com" target="_blank"><img src="https://cdn.simpleicons.org/anthropic/000000" alt="Anthropic Claude" width="40" height="40"/></a>&nbsp;
+  <a href="https://aws.amazon.com/bedrock" target="_blank"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS Bedrock" width="40" height="40"/></a>&nbsp;
+  <a href="https://ai.google.dev" target="_blank"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" width="40" height="40"/></a>
 </p>
 
 `RAG Pipelines` · `Model Context Protocol (MCP)` · `Claude Skills` · `LLM Agents` · `Glean` · `Resolve.AI`
