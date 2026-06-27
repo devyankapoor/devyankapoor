@@ -1,4 +1,4 @@
-# Hi, I'm Devyan Kapoor 👋
+# Hi, I'm Devyaan Kapoor 👋
 
 > *"Building up my niche"* — Senior Software Engineer based in Toronto 🇨🇦
 
