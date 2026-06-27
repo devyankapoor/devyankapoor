@@ -1,71 +1,82 @@
-# Hi, I'm Devyaan Kapoor 👋
+<h1 align="center">Hi 👋, I'm Devyaan Kapoor</h1>
+<h3 align="center">Senior Software Engineer | Distributed Systems · AI Tooling · Guidewire Platform</h3>
 
-> *"Building up my niche"* — Senior Software Engineer based in Toronto 🇨🇦
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devyankapoor&label=Profile%20views&color=0e75b6&style=flat" alt="devyankapoor" />
+</p>
 
-Senior Software Engineer, previously worked at **OpenText · Caseware International · Microfocus · TCS**. I specialise in distributed backend microservices, contract testing, multi-cloud production operations, CI/CD at scale, and AI-assisted developer tooling on the Guidewire platform.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-`Java` `Python` `Gosu` `JavaScript` `SQL`
-
-**Cloud & Infrastructure**
-`AWS (Lambda, S3)` `Azure` `GCP` `Docker` `Kubernetes`
-
-**CI/CD & Testing**
-`TeamCity` `GitLab CI` `Karate` `Playwright` `NeoLoad`
-
-**Data**
-`Snowflake` `PostgreSQL`
-
-**AI / ML**
-`RAG Pipelines` `Model Context Protocol (MCP)` `Anthropic Claude` `Claude Skills` `AWS Bedrock` `Gemini` `Glean` `Resolve.AI` `LLM Agents`
-
-**Protocols**
-`REST` `SOAP`
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=devyankapoor&theme=flat&no-frame=true&row=1&column=6" alt="devyankapoor" />
+  </a>
+</p>
 
 ---
 
-## 💼 What I Do
-
-I own end-to-end release engineering for 6+ production microservices — coordinating deployments and production cutovers across dev, staging, and prod on AWS.
-
-Some highlights:
-
-- 🧪 **Architected a distributed contract-testing framework** (Karate) from scratch covering 500+ scenarios across REST and SOAP service boundaries — reduced manual regression effort by **40%** and caught contract drift before it reached production
-- 🎭 **Built a Playwright E2E automation framework** from scratch and scaled it across 3 engineering pods, wired into CI as a quality gate on every deploy
-- ☁️ **Operate multi-cloud infrastructure** (AWS, Azure, GCP) maintaining **99.9% uptime SLAs** across enterprise environments
-- ⚡ **Optimized CI/CD pipelines**, cutting production deployment times by **25%**
-- 👨‍💻 **Lead technical onboarding** for 4+ engineers as domain expert on the platform's largest service
+- 🔭 Currently working as **Senior Software Engineer**, previously at **OpenText · Caseware International · Microfocus · TCS**
+- 🤖 Building **AI-assisted developer workflows** using Claude, AWS Bedrock, MCP, and Glean
+- ☁️ Operating **multi-cloud infrastructure** (AWS, Azure, GCP) at 99.9% uptime SLAs
+- 🧪 Architected a **contract-testing framework** (Karate) covering 500+ REST/SOAP scenarios — 40% less manual regression
+- 🎭 Built a **Playwright E2E framework** scaled across 3 engineering pods, wired into CI on every deploy
+- ⚡ Optimized CI/CD pipelines, cutting production deployment times by **25%**
+- 🎓 **McGill University** — Graduate Excellence Fellowship
 
 ---
 
-## 🤖 Projects
+### 🤝 Connect with me
 
-### AI-Assisted Developer Workflows
-Internal tooling using Claude Skills and Claude Code subagents to accelerate code review, configuration analysis, and documentation generation across a large microservices fleet.
-
----
-
-## 🚀 Currently Exploring
-
-- **Agentic AI systems** — multi-agent orchestration, MCP server development, LLM evaluation
-- **Data Engineering** — pipeline tooling and analytics infrastructure
-- **System Design** — scalable distributed architectures for production workloads
+<p align="left">
+  <a href="https://linkedin.com/in/devyankapoor" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:kapoor.devyan@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-## 🎓 Background
+### 🛠️ Languages & Tools
 
-- **McGill University** — Graduate Excellence Fellowship; built *jUCMNav*, a requirements modeling tool on the Eclipse platform
-- **Guru Nanak Dev University** — Electronics & Communication Systems Engineering
-- **AWS Cloud Practitioner** certified | **Guidewire** certified (PolicyCenter, Rating, Testing Framework, Cloud Overview)
+<p align="left">
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
+  <a href="https://www.snowflake.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+</p>
 
 ---
 
-## 📫 Get in Touch
+### 🤖 AI & Developer Tooling
 
-- 💼 [linkedin.com/in/devyankapoor](https://linkedin.com/in/devyankapoor)
-- 📧 [kapoor.devyan@gmail.com](mailto:kapoor.devyan@gmail.com)
+<p align="left">
+  <a href="https://aws.amazon.com/bedrock" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Bedrock" width="40" height="40"/></a>
+  <a href="https://www.anthropic.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="Anthropic Claude" width="40" height="40"/></a>
+  <a href="https://ai.google.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Gemini" width="40" height="40"/></a>
+</p>
+
+`RAG Pipelines` · `Model Context Protocol (MCP)` · `Claude Skills` · `LLM Agents` · `Glean` · `Resolve.AI`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devyankapoor&show_icons=true&theme=default&hide_border=true" alt="devyankapoor stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyankapoor&layout=compact&hide_border=true" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devyankapoor&hide_border=true" alt="streak stats" />
+</p>
