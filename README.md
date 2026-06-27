@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=devyankapoor&label=Profile%20views&color=0e75b6&style=flat" alt="devyankapoor" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devyankapoor&theme=flat&no-frame=true&row=1&column=6" alt="trophies" />
-  </a>
-</p>
-
 ---
 
 - 🔭 Currently working as **Senior Software Engineer**, previously at **OpenText · Caseware International · Microfocus · TCS**
