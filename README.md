@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Devyaan Kapoor</h1>
 <h3 align="center">Senior Software Engineer | Distributed Systems · AI Tooling · Guidewire Platform</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devyankapoor&label=Profile%20views&color=0e75b6&style=flat" alt="devyankapoor" />
+</p>
+
 ---
 
 - 🔭 Currently working as **Senior Software Engineer**, previously at **OpenText · Caseware International · Microfocus · TCS**
