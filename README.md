@@ -27,6 +27,10 @@
   <a href="mailto:kapoor.devyan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  &nbsp;
+  <a href="https://x.com/DevyaanKapoor" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
 </p>
 
 ---
