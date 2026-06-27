@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devyankapoor&theme=flat&no-frame=true&row=1&column=6" alt="devyankapoor" />
+    <img src="https://github-profile-trophy.vercel.app/?username=devyankapoor&theme=flat&no-frame=true&row=1&column=6" alt="trophies" />
   </a>
 </p>
 
@@ -27,10 +27,11 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/devyankapoor" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:kapoor.devyan@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -39,18 +40,9 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="40" height="40"/></a>&nbsp;
-  <a href="https://azure.microsoft.com" target="_blank"><img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Azure" width="40" height="40"/></a>&nbsp;
-  <a href="https://cloud.google.com" target="_blank"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="GCP" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.docker.com" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"/></a>&nbsp;
-  <a href="https://kubernetes.io" target="_blank"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.snowflake.com" target="_blank"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" width="40" height="40"/></a>&nbsp;
-  <a href="https://git-scm.com" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,postgres,aws,azure,gcp,docker,kubernetes,git,linux" />
+  </a>
 </p>
 
 ---
@@ -58,12 +50,20 @@
 ### 🤖 AI & Developer Tooling
 
 <p align="left">
-  <a href="https://www.anthropic.com" target="_blank"><img src="https://cdn.simpleicons.org/anthropic/000000" alt="Anthropic Claude" width="40" height="40"/></a>&nbsp;
-  <a href="https://aws.amazon.com/bedrock" target="_blank"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS Bedrock" width="40" height="40"/></a>&nbsp;
-  <a href="https://ai.google.dev" target="_blank"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Bedrock" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Claude_Skills-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Skills" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MCP-0e75b6?style=for-the-badge&logoColor=white" alt="MCP" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Glean-FF6B35?style=for-the-badge&logoColor=white" alt="Glean" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Resolve.AI-4A90D9?style=for-the-badge&logoColor=white" alt="Resolve.AI" />
 </p>
-
-`RAG Pipelines` · `Model Context Protocol (MCP)` · `Claude Skills` · `LLM Agents` · `Glean` · `Resolve.AI`
 
 ---
 
