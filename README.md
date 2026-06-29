@@ -77,10 +77,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devyankapoor&show_icons=true&locale=en&hide_border=true" alt="devyankapoor stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyankapoor&layout=compact&hide_border=true" alt="top languages" />
 </p>
 
